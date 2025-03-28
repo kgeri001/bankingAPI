@@ -1,0 +1,18 @@
+2025-03-28 09:43:36,733 - INFO - Request started at 2025-03-28 08:43:36.733098 for Unknown URL
+2025-03-28 09:44:15,239 - INFO - Request started at 2025-03-28 08:44:15.239285 for Unknown URL
+2025-03-28 09:45:39,655 - INFO - Request started at 2025-03-28 08:45:39.655122 for Unknown URL
+2025-03-28 09:47:56,986 - INFO - Request started at 2025-03-28 08:47:56.986495 for Unknown URL
+2025-03-28 09:48:29,756 - INFO - Request started at 2025-03-28 08:48:29.756821 for Unknown URL
+2025-03-28 09:49:15,768 - INFO - Request started at 2025-03-28 08:49:15.768193 for Unknown URL
+2025-03-28 09:52:31,788 - INFO - Request started at 2025-03-28 08:52:31.788214 for Unknown URL
+2025-03-28 09:52:40,386 - INFO - Request started at 2025-03-28 08:52:40.386828 for Unknown URL
+2025-03-28 10:02:48,576 - INFO - GET Request received at 2025-03-28 10:02:48 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:10:53,543 - INFO - GET Request received at 2025-03-28 10:10:53 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:11:03,829 - INFO - GET Request received at 2025-03-28 10:11:03 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:12:49,051 - INFO - GET Request received at 2025-03-28 10:12:49 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:13:45,475 - INFO - GET Request received at 2025-03-28 10:13:45 - URL: http://127.0.0.1:8000/persons
+2025-03-28 10:14:02,383 - INFO - GET Request received at 2025-03-28 10:14:02 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:14:55,812 - INFO - GET Request received at 2025-03-28 10:14:55 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:15:08,858 - INFO - GET Request received at 2025-03-28 10:15:08 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:15:26,757 - INFO - GET Request received at 2025-03-28 10:15:26 - URL: http://127.0.0.1:8000/persons/Alice/TZIR92411578156593
+2025-03-28 10:15:40,740 - INFO - GET Request received at 2025-03-28 10:15:40 - URL: http://127.0.0.1:8000/persons
